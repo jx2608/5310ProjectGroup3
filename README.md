@@ -14,7 +14,7 @@ This project showcases our work in **database design**, **ETL processes**, and *
 
 ## Project Overview
 Our team has built a complete system that:
-1. **Designs** a database with triggers and relationships.
+1. **Designs** a database with triggers and relationships with 16 tables in 3NF.
 2. **Simulates** realistic retail data and processes it via ETL.
 3. **Executes** analytical queries to extract meaningful business insights.
 
