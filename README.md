@@ -26,7 +26,7 @@ The workflow follows a structured pipeline, starting from schema design and data
 
 | File | Description |
 |------|-------------|
-| **README.md** | You are here! A brief introduction to the repo and project. |
+| **README.md** | A brief introduction to the repo and project. |
 | **Master.ipynb** | Master notebook containing the entire end-to-end project run. Includes all components for reproducibility, broken into three main parts for clarity. |
 | **Database Design.ipynb** | Database schema creation, relationships, and trigger implementations. |
 | **Data Simulation & ETL.ipynb** | Data generation for ABC Foodmart, plus ETL processes for loading into the database. |
